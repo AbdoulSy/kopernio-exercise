@@ -1,0 +1,29 @@
+{
+  "name": "kopernio-exercise",
+  "version": "1.0.0",
+  "description": "a chrome extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "e2e:open": "cypress open",
+    "e2e:ci": "cypress run --ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdoulSy/kopernio-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdoulSy/kopernio-exercise/issues"
+  },
+  "homepage": "https://github.com/AbdoulSy/kopernio-exercise#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "cypress": "^3.7.0",
+    "jest": "^24.9.0"
+  }
+}
