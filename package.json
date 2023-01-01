@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/AbdoulSy/kopernio-exercise#readme",
   "dependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "devDependencies": {
     "cypress": "^3.7.0",
